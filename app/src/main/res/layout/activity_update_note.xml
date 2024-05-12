@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".UpdateNoteActivity"
+    android:background="@drawable/pic4">
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="200dp"-->
+<!--        android:src="@drawable/pic1"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_marginTop="1dp"-->
+<!--        />-->
+
+    <TextView
+        android:id="@+id/editNoteHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp"
+        android:text="Edit Note"
+        android:textAlignment="viewStart"
+        android:textColor="#090909"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/updatesaveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_assignment_turned_in_24"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@id/editNoteHeading"
+        android:layout_marginEnd="6dp"/>
+
+    <EditText
+        android:id="@+id/updatetitleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+
+        android:hint="Enter the title"
+        android:backgroundTint="#E4D4D4"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:layout_below="@id/editNoteHeading"
+        android:background="@drawable/lightblue_border"
+        android:layout_marginTop="26dp"
+        android:maxLines="1"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textColorHint="#5E5D5D"/>
+
+    <EditText
+        android:id="@+id/updatecontentEditText"
+        android:backgroundTint="#F1DADA"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Enter The To Do LIst"
+        android:gravity="top"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="@drawable/lightblue_border"
+        android:layout_below="@+id/updatetitleEditText"
+        android:layout_marginTop="12dp"
+        android:textColorHint="#5E5D5D"/>
+
+
+</RelativeLayout>

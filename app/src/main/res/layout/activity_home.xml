@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".Home"
+    android:background="@drawable/pic5">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:height="100dp"
+        android:width="250dp"
+        android:text="To Do List"
+        android:textColor="@color/Darkblue"
+        android:textStyle="bold"
+        android:layout_marginTop="140dp"
+        android:layout_marginStart="60dp"
+        android:textSize="50dp"/>
+
+    <TextView
+        android:id="@+id/Next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:text="NEXT"
+        android:textColor="@color/pink"
+        android:textStyle="bold"
+        android:layout_marginTop="640dp"
+        android:layout_marginStart="260dp"
+        android:textSize="20dp"/>
+
+
+</RelativeLayout>
