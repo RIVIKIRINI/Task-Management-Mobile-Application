@@ -13,7 +13,7 @@ data persistence across app sessions.
 6. User Interface: Implements a user-friendly interface with intuitive navigation between task creation, task list, 
 and task details screens. The design adheres to Android's Material Design guidelines for a cohesive and 
 polished look
-![WhatsApp Image 2024-05-12 at 11 30 27 PM](https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/5223ea84-5359-406b-a30a-9603279dd073)
+![WhatsApp Image 2024-05-12 at 11 30 27 PM](https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/5223ea84-5359-406b-a30a-9603279dd073 | width = 50)
 ![WhatsApp Image 2024-05-12 at 11 30 26 PM (1)](https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/128d97c9-aa74-417b-be23-38175a3bbb61)
 ![WhatsApp Image 2024-05-12 at 11 30 26 PM](https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/42c0c6bd-b8a8-44b2-a290-78e991319e50)
 ![WhatsApp Image 2024-05-12 at 11 30 25 PM](https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/eaf87487-4c4c-4afc-b3f2-b4817dd5d314)
