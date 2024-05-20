@@ -8,7 +8,7 @@ My task management app built with Android Studio and Kotlin is designed to effic
 5. Database Management: Utilizes SQLite database for efficient storage and retrieval of task data. This ensures data persistence across app sessions.
 6. User Interface: Implements a user-friendly interface with intuitive navigation between task creation, task list, and task details screens. The design adheres to Android's Material Design guidelines for a cohesive and polished look.
 
-<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/5223ea84-5359-406b-a30a-9603279dd073" width="300" alt="Task Creation Screen">
-<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/128d97c9-aa74-417b-be23-38175a3bbb61" width="300" alt="Task Listing Screen">
-<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/42c0c6bd-b8a8-44b2-a290-78e991319e50" width="300" alt="Task Editing Screen">
-<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/eaf87487-4c4c-4afc-b3f2-b4817dd5d314" width="300" alt="Task Deletion Screen">
+<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/5223ea84-5359-406b-a30a-9603279dd073" width="200" alt="Task Creation Screen">
+<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/128d97c9-aa74-417b-be23-38175a3bbb61" width="200" alt="Task Listing Screen">
+<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/42c0c6bd-b8a8-44b2-a290-78e991319e50" width="200" alt="Task Editing Screen">
+<img src="https://github.com/RIVIKIRINI/Task-Management-Mobile-Application/assets/152923663/eaf87487-4c4c-4afc-b3f2-b4817dd5d314" width="200" alt="Task Deletion Screen">
